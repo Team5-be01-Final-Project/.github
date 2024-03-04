@@ -15,6 +15,11 @@
 
 <br>
 
+## -KANBAN
+https://github.com/orgs/Team5-be01-Final-Project/projects/1
 
-## Files
-https://drive.google.com/drive/folders/1fuUfSboLm9YcFC8DAtG9McZ_AvR78DKZ?usp=sharing
+## -WBS
+https://docs.google.com/spreadsheets/d/12YSTL03Vkp5sJB98k0OAiqpQV4MevNZT/edit#gid=305925292
+
+## -회의록
+https://drive.google.com/drive/folders/1YHgWk-RPJCpE0LFaWgjVYvfAAKFwEZ4T
