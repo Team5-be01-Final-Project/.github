@@ -7,7 +7,7 @@
 
 <div align="center">
 
-|**Project Manager** | **GIT MANAGER** | **TECH LEADER/GIT MANAGER** | **AGILE COACH** |
+|**PROJECT MANAGER** | **GIT MANAGER** | **TECH LEADER/GIT MANAGER** | **AGILE COACH** |
 | :------: |  :------: | :------: | :------: |
 [<img src="https://avatars.githubusercontent.com/u/62015109?v=4" height=150 width=150> <br/> 안우용🧛‍♂️](https://github.com/INAUGURATE-Ryong)| [<img src="https://avatars.githubusercontent.com/u/149128094?v=4" height=150 width=150> <br/> 임성현🐹](https://github.com/dhkdtld37) | [<img src="https://avatars.githubusercontent.com/u/150888333?v=4" height=150 width=150> <br/> 정수민🐰](https://github.com/jsmin6330) | [<img src="https://avatars.githubusercontent.com/u/148880521?v=4" height=150 width=150> <br/> 박민성👻](https://github.com/parc02) 
 
