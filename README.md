@@ -28,4 +28,4 @@ https://docs.google.com/spreadsheets/d/12YSTL03Vkp5sJB98k0OAiqpQV4MevNZT/edit#gi
 https://drive.google.com/drive/folders/1YHgWk-RPJCpE0LFaWgjVYvfAAKFwEZ4T
 
 ## - 기획안
-https://docs.google.com/document/d/1FBpvcKzNSAYea77dusQbU8n_9-JMTb-4CosF-qLE_xM/edit
+https://docs.google.com/document/d/14ydCPkxF4Ui37WrlQTBx6Izzfz7MLiTvDKk_WpHeFEc/edit
