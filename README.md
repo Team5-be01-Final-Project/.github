@@ -23,3 +23,6 @@ https://docs.google.com/spreadsheets/d/12YSTL03Vkp5sJB98k0OAiqpQV4MevNZT/edit#gi
 
 ## - 회의록
 https://drive.google.com/drive/folders/1YHgWk-RPJCpE0LFaWgjVYvfAAKFwEZ4T
+
+## - 기획안
+https://docs.google.com/document/d/1JutpuYJL_yCm8hQWI-VryxhG7xn5n237kbDja1depHw/edit
