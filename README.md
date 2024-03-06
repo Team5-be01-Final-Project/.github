@@ -1,8 +1,7 @@
 # Be01 - Final Project - BPS(방문판매사람들)
 
 ## - TOPIC
-최적의 영업을 위한 영업관리시스템
-
+약품 도매 영업 관리 시스템 구축
 ## - TEAM ROLE
 
 <div align="center">
