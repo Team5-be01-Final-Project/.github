@@ -16,7 +16,7 @@
 <br>
 
 ## - 5팀 공유문서함
-https://drive.google.com/drive/folders/1G6v9yQmvQqWrYHTZ-dKUOyMqUutuD5or
+https://drive.google.com/drive/u/0/folders/1fuUfSboLm9YcFC8DAtG9McZ_AvR78DKZ
 
 ## - KANBAN
 https://github.com/orgs/Team5-be01-Final-Project/projects/1
