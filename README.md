@@ -1,10 +1,12 @@
 # Be01 - Final Project - T5
+![image](https://github.com/Team5-be01-Final-Project/.github/assets/148880521/5370a103-0989-4731-828f-7bb5191b94c2)
+
 안녕하세요! BPS입니다!!!🖐️🖐️🖐️🖐️
 ## Team Introduction
 ### - Team Name
-<B> BPS(방문판매사람들) </b>
+BPS(방문판매사람들)
 ### - Project Topic
-<b> 의약품 도매 영업 관리 시스템 구축 </b>
+의약품 도매 영업 관리 시스템 구축 
 ### - Team Role
 
 <div align="center">
