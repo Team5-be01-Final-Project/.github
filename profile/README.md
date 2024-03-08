@@ -1,4 +1,6 @@
 # Be01 - Final Project - T5
+![image](https://github.com/Team5-be01-Final-Project/.github/assets/148880521/5e2966a7-0760-4604-a4e4-31b0ee1d7637)
+
 안녕하세요! BPS입니다!!!🖐️🖐️🖐️🖐️
 ## Team Introduction
 ### - Team Name
