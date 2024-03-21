@@ -19,6 +19,11 @@
 
 <br>
 
+## Repositories
+- [BackEnd](https://github.com/Team5-be01-Final-Project/Backend)
+- [FrontEnd](https://github.com/Team5-be01-Final-Project/Frontend)
+- [Main Issues](https://github.com/Team5-be01-Final-Project/.github/issues)
+
 ## Documents
 - [5팀 공유문서함](https://drive.google.com/drive/u/0/folders/1fuUfSboLm9YcFC8DAtG9McZ_AvR78DKZ)
 
