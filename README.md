@@ -21,7 +21,7 @@
 
 ## Repositories
 - [BackEnd](https://github.com/Team5-be01-Final-Project/Backend)
-- [FrontEnd](https://github.com/Team5-be01-Final-Project/Frontend)
+- [FrontEnd](https://github.com/Team5-be01-Final-Project/Frontend2)
 - [Main Issues](https://github.com/Team5-be01-Final-Project/.github/issues)
 
 ## Documents
