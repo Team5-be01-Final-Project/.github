@@ -1,5 +1,5 @@
 # Be01 - Final Project - T5
-![image](https://private-user-images.githubusercontent.com/150888333/317901783-7ef4f093-e965-4f5d-9cfb-17e4992c692f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTMzMTk3MzksIm5iZiI6MTcxMzMxOTQzOSwicGF0aCI6Ii8xNTA4ODgzMzMvMzE3OTAxNzgzLTdlZjRmMDkzLWU5NjUtNGY1ZC05Y2ZiLTE3ZTQ5OTJjNjkyZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQxN1QwMjAzNTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lNTk0NmE5NjM5NmNhZjA3NmVjZDZmMjRkZjljOWQ4MmEwM2JlNWI5ZGY3NTAxNWVhOGY2MTMwYmYwODI5MjAxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.ZIeOe1tslsbPytjf-gmfNhEb2vWBxmzbG0unRPfjMy4)
+![image](https://github.com/Team5-be01-Final-Project/.github/assets/148880521/5e2966a7-0760-4604-a4e4-31b0ee1d7637)
 
 안녕하세요! BPS입니다!!!🖐️🖐️🖐️🖐️
 ## Team Introduction
@@ -22,12 +22,13 @@
 <br>
 
 ## Project Introduction
+![image](https://private-user-images.githubusercontent.com/150888333/317901783-7ef4f093-e965-4f5d-9cfb-17e4992c692f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTMzMTk3MzksIm5iZiI6MTcxMzMxOTQzOSwicGF0aCI6Ii8xNTA4ODgzMzMvMzE3OTAxNzgzLTdlZjRmMDkzLWU5NjUtNGY1ZC05Y2ZiLTE3ZTQ5OTJjNjkyZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQxN1QwMjAzNTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lNTk0NmE5NjM5NmNhZjA3NmVjZDZmMjRkZjljOWQ4MmEwM2JlNWI5ZGY3NTAxNWVhOGY2MTMwYmYwODI5MjAxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.ZIeOe1tslsbPytjf-gmfNhEb2vWBxmzbG0unRPfjMy4)
 
 
-Deployment URL
+### 🥇Deployment URL
+ https://bpssystem.store/
+
 ---
-👆 https://bpssystem.store/
-
 ### ✔ Topic
 - 최적의 영업을 위한 영업 관리 시스템
 - 제약사의 의약품 도매 영업 관리 시스템 구축
@@ -72,20 +73,19 @@ CI/CD<br>
 <br>
 
 ---
-### - Ecosystem
+### 🌳Ecosystem
 
-![Architecture](https://github.com/Team5-be01-Final-Project/.github/assets/148880521/7221295d-de78-431e-8ac2-822cbb685b7e)
-
-
-
----
-###  요구사항 정의서
+![그림2](https://github.com/beyond-sw-camp/be01-101/assets/148880521/e87e15fb-fc79-46f9-a2d1-571a7b60df2d)
 
 
 ---
+
+
 ### 📌 주요 기능
-- 기능1
-- 기능2
+- 콜드체인
+- 메일링
+- 인센티브 시뮬레이션
+- 데이터 엑셀로 추출
 
 
 ---
@@ -98,7 +98,7 @@ CI/CD<br>
 - 기획서 링크
 
 ---
-### 🖥 화면 설계
+#### 🖥 화면 설계
  
 ![image](https://github.com/Team5-be01-Final-Project/.github/assets/149128094/09a744e9-ed8e-4662-b7ca-bd1844c2b944)
 
@@ -170,6 +170,10 @@ WBS넘버 /  배포버전.    기능추가.   버그픽스    /  담당자
 </details>
 
 ---
+<details>
+  <summary><b>커밋 메세지 규칙<b></summary>
+  <div markdown="1">
+
 ### 커밋 메세지 규칙
  태그(tag) + 제목(subject) " 으로 구성
  태그는 영어로, 첫 문자는 대문자로 작성
@@ -194,8 +198,11 @@ $ git commit -m "[Feat] 4.5.3/2.1.0/SH 이상온도알림 기능 구현"
 추가 커밋 시
 $ git commit -m "[Add] 이상온도알림 권한 코드 추가"
 ``` 
+  </div>
+</details>
 
 ---
+
 ### 💾 Repositories
 - ### [BackEnd](https://github.com/Team5-be01-Final-Project/Backend)
 - ### [FrontEnd](https://github.com/Team5-be01-Final-Project/Frontend2)
@@ -204,6 +211,7 @@ $ git commit -m "[Add] 이상온도알림 권한 코드 추가"
 
 ---
 ### 💼 Documents
+
 - [5팀 공유문서함](https://drive.google.com/drive/u/0/folders/1fuUfSboLm9YcFC8DAtG9McZ_AvR78DKZ)
 
 - [KANBAN](https://github.com/orgs/Team5-be01-Final-Project/projects/1)
@@ -213,3 +221,5 @@ $ git commit -m "[Add] 이상온도알림 권한 코드 추가"
 - [회의록](https://drive.google.com/drive/folders/1YHgWk-RPJCpE0LFaWgjVYvfAAKFwEZ4T)
 
 - [기획안](https://docs.google.com/document/d/14ydCPkxF4Ui37WrlQTBx6Izzfz7MLiTvDKk_WpHeFEc/edit)
+
+- [요구사항 정의서]
