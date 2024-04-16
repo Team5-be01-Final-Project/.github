@@ -91,29 +91,36 @@ CI/CD<br>
 ---
 ### 🖥 프로젝트 설계
 
-#### ERD 
+<details>
+  <summary><b>ERD <b></summary>
+  <div markdown="1">
  
 ![image](https://github.com/Team5-be01-Final-Project/.github/assets/149128094/7ccb4b1d-da73-4729-bea6-c0af69b90236)
 
-- 기획서 링크
+  </div>
+</details>
 
----
-#### 🖥 화면 설계
+<details>
+  <summary><b>🖥 화면 설계서 <b></summary>
+  <div markdown="1">
  
 ![image](https://github.com/Team5-be01-Final-Project/.github/assets/149128094/09a744e9-ed8e-4662-b7ca-bd1844c2b944)
 
 - 피그마 링크
 - 화면설계서 ppt 링크
-
+  </div>
+</details>
 
 --- 
 ### 🚩 Git Flow
 
-<img src="https://github.com/Team5-be01-Final-Project/Main/assets/150888333/8147a8de-9d3a-434f-bc95-6080ca72240f" width="600">
 
 <details>
   <summary><b>Git 전략 설명<b></summary>
   <div markdown="1">
+
+<img src="https://github.com/Team5-be01-Final-Project/Main/assets/150888333/8147a8de-9d3a-434f-bc95-6080ca72240f" width="600">
+
 
 #### Main 브랜치
 - 릴리즈가 끝난 최종 상태의 브랜치
@@ -141,14 +148,14 @@ CI/CD<br>
 --- 
 ### ✒ Branch 전략
 
-WBS NUMBER / 0.0.0 / 담당자이니셜
-
-<img src="https://github.com/Team5-be01-Final-Project/Main/assets/150888333/870fe34b-4c32-4bc2-9d9a-69a07fd787c1" width="400">
 
 <details>
   <summary><b>Branch 설명<b></summary>
   <div markdown="1">
 
+WBS NUMBER / 0.0.0 / 담당자이니셜
+
+<img src="https://github.com/Team5-be01-Final-Project/Main/assets/150888333/870fe34b-4c32-4bc2-9d9a-69a07fd787c1" width="400">
 - 예시
 
 ![image](https://github.com/Team5-be01-Final-Project/.github/assets/149128094/b7c6dc48-6f86-41a5-b1de-a8fca555f7fa)
@@ -169,7 +176,7 @@ WBS넘버 /  배포버전.    기능추가.   버그픽스    /  담당자
   </div>
 </details>
 
----
+
 <details>
   <summary><b>커밋 메세지 규칙<b></summary>
   <div markdown="1">
