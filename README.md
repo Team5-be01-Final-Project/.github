@@ -60,7 +60,9 @@ CI/CD<br>
 <br>
 
 ### - Ecosystem
-- 여기에 구성을 적습니다.(DB, FE, BE, DEPLOY)
+
+![Architecture](https://github.com/Team5-be01-Final-Project/.github/assets/148880521/7221295d-de78-431e-8ac2-822cbb685b7e)
+
 
 
 ### - 요구사항 정의서
@@ -86,7 +88,6 @@ CI/CD<br>
 </div>
 </details>
 
-### - 시스템 아키텍쳐
 
 ### - 주요 기능
 - 기능1
