@@ -27,6 +27,12 @@
 - 여기에 구성을 적습니다.(DB, FE, BE, DEPLOY)
 ### Stacks
 
+### 요구사항 정의서
+
+### ERD
+
+### 화면 설계서
+
 ### Repositories
 - [BackEnd](https://github.com/Team5-be01-Final-Project/Backend)
 - [FrontEnd](https://github.com/Team5-be01-Final-Project/Frontend2)
