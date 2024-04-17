@@ -4,7 +4,6 @@
 안녕하세요! BPS입니다!!!🖐️🖐️🖐️
 ## Team Introduction
 
----
 ### 🏆 Team Name
  BPS(방문판매사람들) 
 
@@ -146,6 +145,32 @@ WBS넘버 /  배포버전. 기능추가.  버그픽스      /  담당자
 
   </div>
 </details>
+
+---
+### 커밋 메세지 규칙
+ 태그(tag) + 제목(subject) " 으로 구성
+ 태그는 영어로, 첫 문자는 대문자로 작성
+"[태그] 제목" 의 형태로 제목에 한글로 작업한 wbs의 타이틀이나 작업한 내용을 작성
+
+### 태그 리스트
+- Feat : 새로운 기능을 추가한 경우
+- Fix : 버그나 에러를 고친 경우
+- Docs : 기타 문서를 수정한 경우, 코드X (ex : README.MD, changelog.md, package.json)
+- Test : 테스트 코드
+- Chore : 빌드 업무 수정, 패키지 매니저 수정
+- Design : CSS 등 사용자가 UI 디자인을 변경했을 때
+- Rename : 파일명(or 폴더명) 을 수정한 경우
+- Remove : 코드(파일) 의 삭제가 있을 때. "Clean", "Eliminate" 를 사용하기도 함
+- Add : 코드나 테스트, 예제, 문서등의 추가 생성이 있는경우
+- Move : 코드의 이동이 있는경우
+
+```bash
+PR 생성 시
+$ git commit -m "[Feat] 4.5.3/2.1.0/SH 이상온도알림 기능 구현"
+
+추가 커밋 시
+$ git commit -m "[Add] 이상온도알림 권한 코드 추가"
+``` 
 
 ---
 ### 💾 Repositories
