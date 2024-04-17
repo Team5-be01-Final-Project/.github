@@ -73,7 +73,7 @@ CI/CD<br>
 <br>
 
 ---
-### 🌳Ecosystem
+### 🌳System Architecture
 
 ![그림2](https://github.com/beyond-sw-camp/be01-101/assets/148880521/e87e15fb-fc79-46f9-a2d1-571a7b60df2d)
 
