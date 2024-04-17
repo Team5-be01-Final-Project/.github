@@ -90,6 +90,7 @@ CI/CD<br>
 
 
 ### 📌 주요 기능
+
 <details>
   <summary><b>Cold-Chain <b></summary>
   <div markdown="1">
@@ -118,7 +119,7 @@ CI/CD<br>
  //여기에 설명을 쓰세요
   </div>
 </details>
-
+- 상세기능은 각 레포에서 확인 할 수 있습니다
 ---
 ### 🖥 프로젝트 설계
 
