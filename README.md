@@ -145,10 +145,6 @@ CI/CD<br>
   </div>
 </details>
 
---- 
-### ✒ Branch 전략
-
-
 <details>
   <summary><b>Branch 설명<b></summary>
   <div markdown="1">
