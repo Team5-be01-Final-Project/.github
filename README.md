@@ -1,7 +1,7 @@
 # Be01 - Final Project - T5
 ![image](https://private-user-images.githubusercontent.com/150888333/317901783-7ef4f093-e965-4f5d-9cfb-17e4992c692f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTMzMTk3MzksIm5iZiI6MTcxMzMxOTQzOSwicGF0aCI6Ii8xNTA4ODgzMzMvMzE3OTAxNzgzLTdlZjRmMDkzLWU5NjUtNGY1ZC05Y2ZiLTE3ZTQ5OTJjNjkyZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQxN1QwMjAzNTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lNTk0NmE5NjM5NmNhZjA3NmVjZDZmMjRkZjljOWQ4MmEwM2JlNWI5ZGY3NTAxNWVhOGY2MTMwYmYwODI5MjAxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.ZIeOe1tslsbPytjf-gmfNhEb2vWBxmzbG0unRPfjMy4)
 
-안녕하세요! BPS입니다!!!🖐️🖐️🖐️
+안녕하세요! BPS입니다!!!🖐️🖐️🖐️🖐️
 ## Team Introduction
 
 ### 🏆 Team Name
@@ -29,6 +29,7 @@ Deployment URL
 👆 https://bpssystem.store/
 
 ### ✔ Topic
+- 최적의 영업을 위한 영업 관리 시스템
 - 제약사의 의약품 도매 영업 관리 시스템 구축
 
 ---
@@ -36,8 +37,11 @@ Deployment URL
 - 2024-03-04 ~ 2024-04-25
 
 ---  
-###  Purpose
+### 🎯 Purpose
 - 제약 제품의 중간 유통 과정에서 발생할 수 있는 손실을 최소화하고, 매출과 이익률을 증대시켜 영업활동의 효율성 향상
+- 종합적인 대시보드 및 기능을 개발하여 기업의 전사 매출 및 영업 활동을 효과적으로 관리하고 분석한다.
+ - 각 사용자 그룹이 업무를 효율적으로 수행하며, 전략적인 의사 결정을 내릴 수 있도록 지원한다.
+ - 콜드체인 기술을 활용하여 온도에 예민한 의약품을 안전하게 관리한다.
 
 ---
 ### 🔧 Stacks
@@ -75,34 +79,32 @@ CI/CD<br>
 
 
 
-### - 요구사항 정의서
+---
+###  요구사항 정의서
+
 
 ---
-### 🖥 화면 설계
-
-<details>
-<summary>  ERD  </summary>
-<div markdown="1">
- 
-![image](https://github.com/Team5-be01-Final-Project/.github/assets/149128094/7ccb4b1d-da73-4729-bea6-c0af69b90236)
-
-</div>
-</details>
-
-<details>
-<summary>  Figma  </summary>
-<div markdown="1">
- 
-![image](https://github.com/Team5-be01-Final-Project/.github/assets/149128094/09a744e9-ed8e-4662-b7ca-bd1844c2b944)
-
-
-</div>
-</details>
-
-
 ### 📌 주요 기능
 - 기능1
 - 기능2
+
+
+---
+### 🖥 프로젝트 설계
+
+#### ERD 
+ 
+![image](https://github.com/Team5-be01-Final-Project/.github/assets/149128094/7ccb4b1d-da73-4729-bea6-c0af69b90236)
+
+- 기획서 링크
+
+---
+### 🖥 화면 설계
+ 
+![image](https://github.com/Team5-be01-Final-Project/.github/assets/149128094/09a744e9-ed8e-4662-b7ca-bd1844c2b944)
+
+- 피그마 링크
+- 화면설계서 ppt 링크
 
 
 --- 
@@ -155,11 +157,11 @@ WBS NUMBER / 0.0.0 / 담당자이니셜
 ```
 
 4.2.1   /   1.          1.          0          /  SH
-WBS넘버 /  배포버전. 기능추가.  버그픽스      /  담당자
+WBS넘버 /  배포버전.    기능추가.   버그픽스    /  담당자
 4.2.1   /   1.        ' 2. '        0          /  SH
-                      ㄴ 기능적인 추가 혹은 수정 사항 
+                        ㄴ 기능적인 추가 혹은 수정 사항 
 4.2.1   /   1.          2.        ' 1 '        /  SH
-                                  ㄴ 오타나, 문서 등 자잘 한 수정사항 
+                                    ㄴ 오타나, 문서 등 자잘 한 수정사항 
 4.2.1   / ' 2.'         1.          0          /  SH
             ㄴ 릴리즈 버전 업데이트 시 2번째, 3번째 넘버링 초기화
 
