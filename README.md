@@ -90,11 +90,34 @@ CI/CD<br>
 
 
 ### 📌 주요 기능
-- 콜드체인
-- 메일링
-- 인센티브 시뮬레이션
-- 데이터 엑셀로 추출
+<details>
+  <summary><b>Cold-Chain <b></summary>
+  <div markdown="1">
 
+// 여기에 설명을 쓰세요
+  </div>
+</details>
+
+<details>
+  <summary><b>이메일 알람<b></summary>
+  <div markdown="1">
+ //여기에 설명을 쓰세요
+  </div>
+</details>
+   
+<details>
+  <summary><b>인센티브 시뮬레이션<b></summary>
+  <div markdown="1">
+ //여기에 설명을 쓰세요
+  </div>
+</details>
+   
+<details>
+  <summary><b>데이터 내보내기<b></summary>
+  <div markdown="1">
+ //여기에 설명을 쓰세요
+  </div>
+</details>
 
 ---
 ### 🖥 프로젝트 설계
