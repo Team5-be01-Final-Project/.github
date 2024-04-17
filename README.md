@@ -77,7 +77,7 @@ CI/CD<br>
 </div>
 </details>
 
-### - 시스템 아키텍쳐
+### 시스템 아키텍쳐
 
 ### 📌 주요 기능
 - 기능1
@@ -90,7 +90,7 @@ CI/CD<br>
 <img src="https://github.com/Team5-be01-Final-Project/Main/assets/150888333/8147a8de-9d3a-434f-bc95-6080ca72240f" width="600">
 
 <details>
-  <summary>Git 전략 설명</summary>
+  <summary><b>Git 전략 설명<b></summary>
   <div markdown="1">
 
 #### Main 브랜치
@@ -119,12 +119,12 @@ CI/CD<br>
 --- 
 ### ✒ Branch 전략
 
-<img src="https://github.com/Team5-be01-Final-Project/Main/assets/150888333/870fe34b-4c32-4bc2-9d9a-69a07fd787c1" width="400">
-
 WBS NUMBER / 0.0.0 / 담당자이니셜
 
+<img src="https://github.com/Team5-be01-Final-Project/Main/assets/150888333/870fe34b-4c32-4bc2-9d9a-69a07fd787c1" width="400">
+
 <details>
-  <summary>Branch 설명</summary>
+  <summary><b>Branch 설명<b></summary>
   <div markdown="1">
 
 - 예시
