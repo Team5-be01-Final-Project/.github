@@ -22,38 +22,38 @@
 
 ## Project Introduction
 
-### Topic?
+### - Topic?
 - 여기에 주제를 적습니다.
 
-### 프로젝트 기간
+### - 프로젝트 기간
   
-### Purpose
+### - Purpose
 - 여기에 목적을 적습니다.
-### Ecosystem
+### - Ecosystem
 - 여기에 구성을 적습니다.(DB, FE, BE, DEPLOY)
-### Stacks
+### - Stacks
 
-### 요구사항 정의서
+### - 요구사항 정의서
 
-### ERD
+### - ERD
 
-### 화면 설계서
+### - 화면 설계서
 
-### 시스템 아키텍쳐
+### - 시스템 아키텍쳐
 
-### 주요 기능
+### - 주요 기능
 - 기능1
 - 기능2
 
 ### 
 
-### Branch 전략
-### Repositories
+### - Branch 전략
+### - Repositories
 - [BackEnd](https://github.com/Team5-be01-Final-Project/Backend)
 - [FrontEnd](https://github.com/Team5-be01-Final-Project/Frontend2)
 - [Main Issues](https://github.com/Team5-be01-Final-Project/.github/issues)
 
-### Documents
+### - Documents
 - [5팀 공유문서함](https://drive.google.com/drive/u/0/folders/1fuUfSboLm9YcFC8DAtG9McZ_AvR78DKZ)
 
 - [KANBAN](https://github.com/orgs/Team5-be01-Final-Project/projects/1)
