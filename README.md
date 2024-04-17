@@ -226,3 +226,7 @@ $ git commit -m "[Add] 이상온도알림 권한 코드 추가"
 - [기획안](https://docs.google.com/document/d/14ydCPkxF4Ui37WrlQTBx6Izzfz7MLiTvDKk_WpHeFEc/edit)
 
 - [요구사항 정의서]
+
+### 💼 제약조건
+
+### 💼 Thanks to 어쩌구 저꺼구
