@@ -33,6 +33,7 @@
 
 ### 화면 설계서
 
+### Branch 전략
 ### Repositories
 - [BackEnd](https://github.com/Team5-be01-Final-Project/Backend)
 - [FrontEnd](https://github.com/Team5-be01-Final-Project/Frontend2)
