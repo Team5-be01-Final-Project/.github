@@ -8,7 +8,7 @@
  BPS(방문판매사람들) 
 
 ---
-### 🕹 Team Role
+### 🕹️ Team Role  
 
 
 <div align="center">
@@ -23,6 +23,10 @@
 
 ## Project Introduction
 
+
+Deployment URL
+---
+👆 https://bpssystem.store/
 
 ### ✔ Topic
 - 제약사의 의약품 도매 영업 관리 시스템 구축
