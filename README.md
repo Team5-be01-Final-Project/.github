@@ -4,10 +4,12 @@
 안녕하세요! BPS입니다!!!🖐️🖐️🖐️
 ## Team Introduction
 
-### - Team Name
+---
+### 🏆 Team Name
  BPS(방문판매사람들) 
 
-### - Team Role
+---
+### 🕹 Team Role
 
 
 <div align="center">
@@ -22,16 +24,20 @@
 
 ## Project Introduction
 
-### - Topic
+
+### ✔ Topic
 - 제약사의 의약품 도매 영업 관리 시스템 구축
 
-### - Duration
+---
+### 🗓 Duration
 - 2024-03-04 ~ 2024-04-25
-  
-### - Purpose
+
+---  
+###  Purpose
 - 제약 제품의 중간 유통 과정에서 발생할 수 있는 손실을 최소화하고, 매출과 이익률을 증대시켜 영업활동의 효율성 향상
 
-### - Stacks
+---
+### 🔧 Stacks
 DB <br>
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) <br>
 BE<br>
@@ -42,13 +48,15 @@ FE<br>
 CI/CD<br>
 <br>
 
+---
 ### - Ecosystem
 - 여기에 구성을 적습니다.(DB, FE, BE, DEPLOY)
 
 
 ### - 요구사항 정의서
 
-### - 화면 설계
+---
+### 🖥 화면 설계
 
 <details>
 <summary>  ERD  </summary>
@@ -71,11 +79,13 @@ CI/CD<br>
 
 ### - 시스템 아키텍쳐
 
-## - 주요 기능
+### 📌 주요 기능
 - 기능1
 - 기능2
 
-# 🚩 Git Flow
+
+--- 
+### 🚩 Git Flow
 
 <img src="https://github.com/Team5-be01-Final-Project/Main/assets/150888333/8147a8de-9d3a-434f-bc95-6080ca72240f" width="600">
 
@@ -106,7 +116,8 @@ CI/CD<br>
   </div>
 </details>
 
-# ✒ Branch 전략
+--- 
+### ✒ Branch 전략
 
 <img src="https://github.com/Team5-be01-Final-Project/Main/assets/150888333/870fe34b-4c32-4bc2-9d9a-69a07fd787c1" width="400">
 
@@ -136,12 +147,15 @@ WBS넘버 /  배포버전. 기능추가.  버그픽스      /  담당자
   </div>
 </details>
 
-# 💾 Repositories
+---
+### 💾 Repositories
 - ### [BackEnd](https://github.com/Team5-be01-Final-Project/Backend)
 - ### [FrontEnd](https://github.com/Team5-be01-Final-Project/Frontend2)
 - ### [Main Issues](https://github.com/Team5-be01-Final-Project/.github/issues)
 
-# 💼 Documents
+
+---
+### 💼 Documents
 - [5팀 공유문서함](https://drive.google.com/drive/u/0/folders/1fuUfSboLm9YcFC8DAtG9McZ_AvR78DKZ)
 
 - [KANBAN](https://github.com/orgs/Team5-be01-Final-Project/projects/1)
