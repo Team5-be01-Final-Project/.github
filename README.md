@@ -71,19 +71,77 @@ CI/CD<br>
 
 ### - 시스템 아키텍쳐
 
-### - 주요 기능
+## - 주요 기능
 - 기능1
 - 기능2
 
-### 
+# 🚩 Git Flow
 
-### - Branch 전략
-### - Repositories
-- [BackEnd](https://github.com/Team5-be01-Final-Project/Backend)
-- [FrontEnd](https://github.com/Team5-be01-Final-Project/Frontend2)
-- [Main Issues](https://github.com/Team5-be01-Final-Project/.github/issues)
+<img src="https://github.com/Team5-be01-Final-Project/Main/assets/150888333/8147a8de-9d3a-434f-bc95-6080ca72240f" width="600">
 
-### - Documents
+<details>
+  <summary>Git 전략 설명</summary>
+  <div markdown="1">
+
+#### Main 브랜치
+- 릴리즈가 끝난 최종 상태의 브랜치
+
+#### Release 브랜치 ( 2024-03-18 추가 )
+- Develop에서 Feature의 코드를 합치고 에러가 없을 시 배포 후 QA를 위한 브랜치
+
+#### Develop(dev) 브랜치
+- 다음 배포(릴리즈)를 대비하여 개발한 코드를 모아두는 브랜치
+- 개발 및 테스트가 완료되면, Main 브랜치로 merge
+
+#### Feature 브랜치
+- 기능 단위 개발 브랜치
+- feature에서 개발 완료 후, dev 브랜치로 merge
+
+0.x.x : 정식 배포 버전
+
+0.0.x : 기능 추가 버전
+
+0.0.0 : 에러 및 간단한 수정 사항
+
+  </div>
+</details>
+
+# ✒ Branch 전략
+
+<img src="https://github.com/Team5-be01-Final-Project/Main/assets/150888333/870fe34b-4c32-4bc2-9d9a-69a07fd787c1" width="400">
+
+WBS NUMBER / 0.0.0 / 담당자이니셜
+
+<details>
+  <summary>Branch 설명</summary>
+  <div markdown="1">
+
+- 예시
+
+![image](https://github.com/Team5-be01-Final-Project/.github/assets/149128094/b7c6dc48-6f86-41a5-b1de-a8fca555f7fa)
+
+```
+
+4.2.1   /   1.          1.          0          /  SH
+WBS넘버 /  배포버전. 기능추가.  버그픽스      /  담당자
+4.2.1   /   1.        ' 2. '        0          /  SH
+                      ㄴ 기능적인 추가 혹은 수정 사항 
+4.2.1   /   1.          2.        ' 1 '        /  SH
+                                  ㄴ 오타나, 문서 등 자잘 한 수정사항 
+4.2.1   / ' 2.'         1.          0          /  SH
+            ㄴ 릴리즈 버전 업데이트 시 2번째, 3번째 넘버링 초기화
+
+```
+
+  </div>
+</details>
+
+# 💾 Repositories
+- ### [BackEnd](https://github.com/Team5-be01-Final-Project/Backend)
+- ### [FrontEnd](https://github.com/Team5-be01-Final-Project/Frontend2)
+- ### [Main Issues](https://github.com/Team5-be01-Final-Project/.github/issues)
+
+# 💼 Documents
 - [5팀 공유문서함](https://drive.google.com/drive/u/0/folders/1fuUfSboLm9YcFC8DAtG9McZ_AvR78DKZ)
 
 - [KANBAN](https://github.com/orgs/Team5-be01-Final-Project/projects/1)
