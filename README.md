@@ -8,14 +8,14 @@
  BPS(방문판매사람들) 
 
 ---
-### 🕹 Team Role
+### 🕹️ Team Role  
 
 
 <div align="center">
 
-|**PROJECT MANAGER** | **GIT MANAGER** | **TECH LEADER** | **AGILE COACH** |
-| :------: |  :------: | :------: | :------: |
-[<img src="https://avatars.githubusercontent.com/u/62015109?v=4" height=150 width=150> <br/> 안우용🧛‍♂️](https://github.com/INAUGURATE-Ryong)| [<img src="https://avatars.githubusercontent.com/u/149128094?v=4" height=150 width=150> <br/> 임성현🐹](https://github.com/dhkdtld37) | [<img src="https://avatars.githubusercontent.com/u/150888333?v=4" height=150 width=150> <br/> 정수민🐰](https://github.com/jsmin6330) | [<img src="https://avatars.githubusercontent.com/u/148880521?v=4" height=150 width=150> <br/> 박민성👻](https://github.com/parc02) 
+|                                                            **PROJECT MANAGER**                                                             |                                                           **GIT MANAGER**                                                            |                                                           **TECH LEADER**                                                            |                                                          **AGILE COACH**                                                          |
+| :----------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
+| [<img src="https://avatars.githubusercontent.com/u/62015109?v=4" height=150 width=150> <br/> 안우용🧛‍♂️](https://github.com/INAUGURATE-Ryong) | [<img src="https://avatars.githubusercontent.com/u/149128094?v=4" height=150 width=150> <br/> 임성현🐹](https://github.com/dhkdtld37) | [<img src="https://avatars.githubusercontent.com/u/150888333?v=4" height=150 width=150> <br/> 정수민🐰](https://github.com/jsmin6330) | [<img src="https://avatars.githubusercontent.com/u/148880521?v=4" height=150 width=150> <br/> 박민성👻](https://github.com/parc02) |
 
 </div>
 
@@ -23,6 +23,10 @@
 
 ## Project Introduction
 
+
+Deployment URL
+---
+👆 https://bpssystem.store/
 
 ### ✔ Topic
 - 최적의 영업을 위한 영업 관리 시스템
@@ -43,17 +47,36 @@
 ### 🔧 Stacks
 DB <br>
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) <br>
+
 BE<br>
+![springboot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) 
+![apachemaven](https://img.shields.io/badge/apachemaven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white) <br>
+
 <br>
 FE<br>
 
+![html5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+ ![css3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+ ![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) 
+  ![vue.js](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) <br>
+
 <br>
 CI/CD<br>
+
+![githubactions](https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) 
+![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)   ![amazons3](https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)   
+![amazonec2](https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white) <br>
+
+
+
 <br>
 
 ---
 ### - Ecosystem
-- 여기에 구성을 적습니다.(DB, FE, BE, DEPLOY)
+
+![Architecture](https://github.com/Team5-be01-Final-Project/.github/assets/148880521/7221295d-de78-431e-8ac2-822cbb685b7e)
+
 
 
 ---
@@ -82,9 +105,6 @@ CI/CD<br>
 
 - 피그마 링크
 - 화면설계서 ppt 링크
-
----
-### 시스템 아키텍쳐
 
 
 --- 
