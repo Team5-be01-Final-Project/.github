@@ -48,9 +48,26 @@ CI/CD<br>
 
 ### - 요구사항 정의서
 
-### - ERD
+### - 화면 설계
 
-### - 화면 설계서
+<details>
+<summary>  ERD  </summary>
+<div markdown="1">
+ 
+![image](https://github.com/Team5-be01-Final-Project/.github/assets/149128094/7ccb4b1d-da73-4729-bea6-c0af69b90236)
+
+</div>
+</details>
+
+<details>
+<summary>  Figma  </summary>
+<div markdown="1">
+ 
+![image](https://github.com/Team5-be01-Final-Project/.github/assets/149128094/09a744e9-ed8e-4662-b7ca-bd1844c2b944)
+
+
+</div>
+</details>
 
 ### - 시스템 아키텍쳐
 
