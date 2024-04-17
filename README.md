@@ -3,6 +3,7 @@
 
 안녕하세요! BPS입니다!!!🖐️🖐️🖐️🖐️
 ## Team Introduction
+
 ### - Team Name
  BPS(방문판매사람들) 
 
@@ -20,6 +21,7 @@
 <br>
 
 ## Project Introduction
+
 ### Topic?
 - 여기에 주제를 적습니다.
 
