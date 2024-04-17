@@ -5,8 +5,7 @@
 ## Team Introduction
 ### - Team Name
  BPS(방문판매사람들) 
-### - Project Topic
- 의약품 도매 영업 관리 시스템 구축 
+
 ### - Team Role
 
 <div align="center">
@@ -18,6 +17,13 @@
 </div>
 
 <br>
+
+## Project Introduction
+### Purpose
+- 여기에 목적을 적습니다.
+### Ecosystem
+- 여기에 구성을 적습니다.(DB, FE, BE, DEPLOY)
+### Stacks
 
 ## Repositories
 - [BackEnd](https://github.com/Team5-be01-Final-Project/Backend)
