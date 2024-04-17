@@ -27,14 +27,22 @@
 
 ### - Duration
 - 2024-03-04 ~ 2024-04-25
-- 
+  
 ### - Purpose
-- 제약 제품의 중간 유통 과정에서 발생할 수 있는 손실을 최소화하고, 매출과 
-   이익률을 증대시켜 영업활동의 효율성 향상
+- 제약 제품의 중간 유통 과정에서 발생할 수 있는 손실을 최소화하고, 매출과 이익률을 증대시켜 영업활동의 효율성 향상
 
+### - Stacks
+DB <br>
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) <br>
+FE<br>
+<br>
+BE<br>
+<br>
+CI/CD<br>
+<br>
 ### - Ecosystem
 - 여기에 구성을 적습니다.(DB, FE, BE, DEPLOY)
-### - Stacks
+
 
 ### - 요구사항 정의서
 
