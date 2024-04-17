@@ -8,6 +8,7 @@
 
 ### - Team Role
 
+
 <div align="center">
 
 |**PROJECT MANAGER** | **GIT MANAGER** | **TECH LEADER** | **AGILE COACH** |
@@ -21,6 +22,9 @@
 ## Project Introduction
 ### Topic?
 - 여기에 주제를 적습니다.
+
+### 프로젝트 기간
+  
 ### Purpose
 - 여기에 목적을 적습니다.
 ### Ecosystem
@@ -32,6 +36,14 @@
 ### ERD
 
 ### 화면 설계서
+
+### 시스템 아키텍쳐
+
+### 주요 기능
+- 기능1
+- 기능2
+
+### 
 
 ### Branch 전략
 ### Repositories
