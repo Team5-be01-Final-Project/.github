@@ -101,7 +101,7 @@ CI/CD<br>
 </details>
 
 <details>
-  <summary><b>🖥 화면 설계서 <b></summary>
+  <summary><b>화면 설계서 <b></summary>
   <div markdown="1">
  
 ![image](https://github.com/Team5-be01-Final-Project/.github/assets/149128094/09a744e9-ed8e-4662-b7ca-bd1844c2b944)
