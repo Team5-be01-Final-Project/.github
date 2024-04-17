@@ -34,9 +34,10 @@
 ### - Stacks
 DB <br>
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) <br>
-FE<br>
-<br>
 BE<br>
+<br>
+FE<br>
+
 <br>
 CI/CD<br>
 <br>
