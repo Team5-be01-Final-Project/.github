@@ -83,9 +83,6 @@ CI/CD<br>
 ![amazons3](https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white) ![amazonec2](https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white) <br>
 
 
-
-<br>
-
 ---
 
 ### 🛠️ Compatibility
@@ -256,7 +253,6 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
 ---
 
 ### 🖥 System Design
-<br/>
 
 <details>
   <summary><b>ERD</b></summary>
@@ -274,15 +270,13 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
  
 ![image](https://github.com/Team5-be01-Final-Project/.github/assets/149128094/09a744e9-ed8e-4662-b7ca-bd1844c2b944)
 
-- 피그마 링크
-- 화면설계서 ppt 링크
+- 피그마 링크 (추가해야합니다!!)
+- 화면설계서 ppt 링크 (추가해야합니다!!)
   </div>
 </details>
-<br/>
 
 --- 
 ### 🚩 Git Flow
-<br/>
 
 <details>
   <summary><b>Git 전략 설명</b></summary>
@@ -304,7 +298,6 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
 #### Feature 브랜치
 - 기능 단위 개발 브랜치
 - feature에서 개발 완료 후, dev 브랜치로 merge
-<br/>
 
   </div>
 </details>
@@ -314,7 +307,6 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
   <summary><b>Branch 설명</b></summary>
   <div markdown="1">
 
-<br/>
 
 <img src="https://github.com/Team5-be01-Final-Project/Main/assets/150888333/870fe34b-4c32-4bc2-9d9a-69a07fd787c1" width="400">
 
@@ -375,7 +367,6 @@ $ git commit -m "[Add] 이상온도알림 권한 코드 추가"
 ---
 
 ### 💾 Repositories
-<br/>
 
 - ### [BackEnd](https://github.com/Team5-be01-Final-Project/Backend)
 
@@ -387,7 +378,6 @@ $ git commit -m "[Add] 이상온도알림 권한 코드 추가"
 
 ---
 ### 💼 Documents
-<br/>
 
 - [5팀 공유문서함](https://drive.google.com/drive/u/0/folders/1fuUfSboLm9YcFC8DAtG9McZ_AvR78DKZ)
 
@@ -405,7 +395,6 @@ $ git commit -m "[Add] 이상온도알림 권한 코드 추가"
 
 ---
 ### 🖌️ Acknowledgments
-<br/>
 
 이 프로젝트에 적극적으로 참여해준 팀원 모두에게 깊은 감사를 표합니다. <br>
 또한, 우리 시스템에 큰 도움을 준 VusticUI에게도 특별한 감사를 전합니다. <br>
