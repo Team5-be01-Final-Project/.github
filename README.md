@@ -98,7 +98,7 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
 
 
 ---
-### 📜 기능 요약
+### 📜 Features
 
 <details>
   <summary><b>대시보드</b></summary>
@@ -158,7 +158,7 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
 
 ---
 
-### 📌 주요 기능
+### 📌 Main Features
 
 <details>
   <summary><b>Cold-Chain</b></summary>
@@ -194,7 +194,7 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
    
 ---
 
-### 🖥 프로젝트 설계
+### 🖥 System Design
 
 <details>
   <summary><b>ERD</b></summary>
