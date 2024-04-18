@@ -2,6 +2,8 @@
 ![image](https://github.com/Team5-be01-Final-Project/.github/assets/148880521/5e2966a7-0760-4604-a4e4-31b0ee1d7637)
 
 안녕하세요! BPS입니다!!!🖐️🖐️🖐️🖐️
+<br/>
+
 ## Team Introduction
 
 ### 🏆 Team Name
@@ -9,6 +11,8 @@
 
 ---
 ### 🕹️ Team Role  
+<br/>
+
 
 
 <div align="center">
@@ -22,6 +26,7 @@
 <br>
 
 ---
+<br/>
 
 ## Project Introduction
 
@@ -99,6 +104,7 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
 
 ---
 ### 📜 Features
+<br/>
 
 <details>
   <summary><b>대시보드</b></summary>
@@ -111,6 +117,8 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
   
   </div>
 </details>
+<br/>
+
 
 <details>
   <summary><b>시스템 관리</b></summary>
@@ -121,6 +129,7 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
   
   </div>
 </details>
+<br/>
 
 <details>
   <summary><b>제품 관리</b></summary>
@@ -134,6 +143,7 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
   - 전표 조회<br>
   </div>
 </details>
+<br/>
 
 <details>
   <summary><b>영업 관리</b></summary>
@@ -143,6 +153,7 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
   - 인센티브 현황 확인<br>
   </div>
 </details>
+<br/>
 
 <details>
   <summary><b>판매 관리</b></summary>
@@ -151,6 +162,7 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
   - 거래처별 매출 현황<br>
   </div>
 </details>
+<br/>
 
 <details>
   <summary><b>My영업</b></summary>
@@ -161,12 +173,14 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
   - 인센티브 시뮬레이션<br>
   </div>
 </details>
+<br/>
 
 - <b> 상세기능은 각 레포지토리에서 확인 할 수 있습니다 </b>
 
 ---
 
 ### 📌 Main Features
+<br/>
 
 <details>
   <summary><b>Cold-Chain</b></summary>
@@ -175,6 +189,7 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
 본 시스템은 창고와 이동 중인 배송 차량에서 설정된 온도 범위(2-8도)를 초과하거나 미달할 경우, 즉시 담당자에게 이메일을 통해 알림을 보내어 신속한 조치를 취할 수 있도록 합니다.
   </div>
 </details>
+<br/>
 
 <details>
   <summary><b>이메일 알람</b></summary>
@@ -182,6 +197,7 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
 이 시스템은 특정 이벤트나 조건이 발생했을 때 관련 정보를 자동으로 이메일로 발송하며, 추후 개발 예정인 기능에는 매출 보고나 중요 공지사항을 회사의 대표나 팀장에게 정기적으로 전송하는 자동 메일링 시스템이 포함됩니다.
   </div>
 </details>
+<br/>
 
 <details>
   <summary><b>인센티브 시뮬레이션</b></summary>
@@ -190,6 +206,7 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
  이 기능은 영업 팀원들이 목표 달성을 위한 진행 상황을 파악하고, 동기를 부여받을 수 있도록 설계되었습니다.
   </div>
 </details>
+<br/>
 
 <details>
   <summary><b>데이터 내보내기</b></summary>
@@ -203,6 +220,7 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
 ---
 
 ### 🖥 System Design
+<br/>
 
 <details>
   <summary><b>ERD</b></summary>
@@ -210,9 +228,9 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
  
 ![image](![ERD 최종본](https://github.com/Team5-be01-Final-Project/.github/assets/148880521/80205a98-6eba-4794-9b78-ee66b78ee9a0)
 
-
   </div>
 </details>
+<br/>
 
 <details>
   <summary><b>화면 설계서</b></summary>
@@ -224,9 +242,11 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
 - 화면설계서 ppt 링크
   </div>
 </details>
+<br/>
 
 --- 
 ### 🚩 Git Flow
+<br/>
 
 <details>
   <summary><b>Git 전략 설명</b></summary>
@@ -248,6 +268,7 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
 #### Feature 브랜치
 - 기능 단위 개발 브랜치
 - feature에서 개발 완료 후, dev 브랜치로 merge
+<br/>
 
 0.x.x : 정식 배포 버전
 
@@ -257,6 +278,7 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
 
   </div>
 </details>
+<br/>
 
 <details>
   <summary><b>Branch 설명</b></summary>
@@ -284,7 +306,7 @@ WBS넘버 /  배포버전.    기능추가.   버그픽스    /  담당자
 
   </div>
 </details>
-
+<br/>
 
 <details>
   <summary><b>커밋 메세지 규칙</b></summary>
@@ -319,13 +341,19 @@ $ git commit -m "[Add] 이상온도알림 권한 코드 추가"
 ---
 
 ### 💾 Repositories
+<br/>
+
 - ### [BackEnd](https://github.com/Team5-be01-Final-Project/Backend)
+
+
 - ### [FrontEnd](https://github.com/Team5-be01-Final-Project/Frontend2)
+
 - ### [Main Issues](https://github.com/Team5-be01-Final-Project/.github/issues)
 
 
 ---
 ### 💼 Documents
+<br/>
 
 - [5팀 공유문서함](https://drive.google.com/drive/u/0/folders/1fuUfSboLm9YcFC8DAtG9McZ_AvR78DKZ)
 
@@ -343,6 +371,7 @@ $ git commit -m "[Add] 이상온도알림 권한 코드 추가"
 
 ---
 ### 🖌️Acknowledgments
+<br/>
 
 이 프로젝트에 적극적으로 참여해준 팀원 모두에게 깊은 감사를 표합니다. <br>
 또한, 우리 시스템에 큰 도움을 준 VusticUI에게도 특별한 감사를 전합니다. <br>
