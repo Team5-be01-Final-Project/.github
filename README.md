@@ -105,6 +105,7 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
   <div markdown="1">
 
 // 여기에 설명을 쓰세요
+온도에 민감한 의약품을 콜드체인 기법을 활용하여, 안전하게 모니터링을 함
   </div>
 </details>
 
