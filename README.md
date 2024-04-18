@@ -335,7 +335,7 @@ $ git commit -m "[Add] 이상온도알림 권한 코드 추가"
 
 - [회의록](https://drive.google.com/drive/folders/1YHgWk-RPJCpE0LFaWgjVYvfAAKFwEZ4T)
 
-- [기획안](Datas/[BPS] 프로젝트 기획서_v3.pdf)
+- [기획안](https://github.com/Team5-be01-Final-Project/.github/blob/main/Datas/%5BBPS%5D%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B8%B0%ED%9A%8D%EC%84%9C_v3.pdf)
 
 - [요구사항 정의서]
  
