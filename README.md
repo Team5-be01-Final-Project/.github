@@ -99,7 +99,7 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
 
 
 ---
-### 📜기능 
+### 📜 기능 요약
 
 <details>
   <summary><b>대시보드</b></summary>
