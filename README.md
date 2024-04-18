@@ -331,10 +331,11 @@ $ git commit -m "[Add] 이상온도알림 권한 코드 추가"
 - [요구사항 정의서]
 
 ---
-## Acknowledgments
+### 🖌️Acknowledgments
 
 I would like to extend my deepest gratitude to my dedicated team members who have collaborated on this project over the past two months. <br>
 Each team member brought unique skills and insights that were invaluable throughout the development process. <br>
 Special thanks to VusticUI for providing the robust and intuitive user interface framework that greatly enhanced our application. <br>
-Thank you all for your hard work, perseverance, and commitment. This project would not have been successful without your collective efforts. <br>
+Thank you all for your hard work, perseverance, and commitment. <br>
+This project would not have been successful without your collective efforts. <br>
 
