@@ -126,7 +126,7 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
 <details>
   <summary><b>제품 관리</b></summary>
   <div markdown="1">
-  - 판매 상품 조회
+  - 판매 제품 조회<br>
   - 거래처별 판매가 등록 및 수정<br>
   - 거래처별 제품 조회<br>
   - 재고 조회 및 등록<br>
@@ -154,6 +154,8 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
   - 인센티브 시뮬레이션<br>
   </div>
 </details>
+
+- <b> 상세기능은 각 레포지토리에서 확인 할 수 있습니다 </b>
 
 ---
 
@@ -189,8 +191,7 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
   </div>
 </details>
 
-   
-- <b> 상세기능은 각 레포지토리에서 확인 할 수 있습니다 </b>
+  
    
 ---
 
