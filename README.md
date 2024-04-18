@@ -200,7 +200,8 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
   <summary><b>ERD</b></summary>
   <div markdown="1">
  
-![image](https://github.com/Team5-be01-Final-Project/.github/assets/149128094/7ccb4b1d-da73-4729-bea6-c0af69b90236)
+![image](![ERD 최종본](https://github.com/Team5-be01-Final-Project/.github/assets/148880521/80205a98-6eba-4794-9b78-ee66b78ee9a0)
+
 
   </div>
 </details>
@@ -322,13 +323,15 @@ $ git commit -m "[Add] 이상온도알림 권한 코드 추가"
 
 - [KANBAN](https://github.com/orgs/Team5-be01-Final-Project/projects/1)
 
-- [WBS](https://docs.google.com/spreadsheets/d/12YSTL03Vkp5sJB98k0OAiqpQV4MevNZT/edit#gid=305925292)
+- [WBS](Datas/WBS(2024-04-25).pdf)
 
 - [회의록](https://drive.google.com/drive/folders/1YHgWk-RPJCpE0LFaWgjVYvfAAKFwEZ4T)
 
 - [기획안](https://docs.google.com/document/d/14ydCPkxF4Ui37WrlQTBx6Izzfz7MLiTvDKk_WpHeFEc/edit)
 
 - [요구사항 정의서]
+- 
+- [API 명세서](https://github.com/Team5-be01-Final-Project/.github/blob/main/Datas/API%20%EB%AA%85%EC%84%B8%EC%84%9C.pdf)
 
 ---
 ### 🖌️Acknowledgments
