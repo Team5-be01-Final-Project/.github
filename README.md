@@ -96,7 +96,7 @@ CI/CD<br>
 This system was developed for Microsoft Windows x64 under the Windows Subsystem for Linux (WSL).<br> It may not function correctly on other operating systems.
 
 ---
-### 🌳System Architecture
+### 🌳 System Architecture
 
 ![그림1](https://github.com/Team5-be01-Final-Project/.github/assets/148880521/6743922c-790e-4b54-b959-c5ae3b12a33b)
 
@@ -370,7 +370,7 @@ $ git commit -m "[Add] 이상온도알림 권한 코드 추가"
 - [API 명세서](https://github.com/Team5-be01-Final-Project/.github/blob/main/Datas/API%20%EB%AA%85%EC%84%B8%EC%84%9C.pdf)
 
 ---
-### 🖌️Acknowledgments
+### 🖌️ Acknowledgments
 <br/>
 
 이 프로젝트에 적극적으로 참여해준 팀원 모두에게 깊은 감사를 표합니다. <br>
