@@ -95,9 +95,7 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
 ---
 ### 🌳 System Architecture
 
-![image](https://github.com/Team5-be01-Final-Project/.github/assets/148880521/172e83fc-a0be-4c3d-80b1-f72b9d692bd3)
-
-
+![image](https://github.com/Team5-be01-Final-Project/.github/assets/148880521/75b73d65-f9a4-46e5-8629-cfe90da0c314)
 
 
 ---
