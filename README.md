@@ -66,15 +66,17 @@ FE<br>
  ![css3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
  ![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) 
  ![vue.js](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) 
- ![nginx](https://img.shields.io/badge/nginx-6DB33F?style=for-the-badge&logo=nginx&logoColor=white) <br>
+ ![nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) <br>
 
 
 <br>
 CI/CD<br>
 
+![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![githubactions](https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) 
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) 
 ![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
-![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)   ![amazons3](https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white) ![amazonec2](https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white) <br>
+![amazons3](https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white) ![amazonec2](https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white) <br>
 
 
 
@@ -101,32 +103,33 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
 ### 📌 주요 기능
 
 <details>
-  <summary><b>Cold-Chain <b></summary>
+  <summary>Cold-Chain</summary>
   <div markdown="1">
 콜드체인 기법은 의약품이나 생물학적 제제 등 온도에 민감한 물품을 안전하게 보관하고 운송하기 위해 일정한 온도 범위를 유지하는 물류 관리 시스템입니다. 본 시스템은 창고와 이동 중인 배송 차량에서 설정된 온도 범위(2-8도)를 초과하거나 미달할 경우, 즉시 담당자에게 이메일을 통해 알림을 보내어 신속한 조치를 취할 수 있도록 합니다.
   </div>
 </details>
 
 <details>
-  <summary><b>이메일 알람<b></summary>
+  <summary>**이메일 알람**</summary>
   <div markdown="1">
 이메일 서비스 기능은 기업의 내부 커뮤니케이션을 자동화하여 효율성을 높이는 데 중요한 역할을 합니다. 이 시스템은 특정 이벤트나 조건이 발생했을 때 관련 정보를 자동으로 이메일로 발송하며, 추후 개발 예정인 기능에는 매출 보고나 중요 공지사항을 회사의 대표나 팀장에게 정기적으로 전송하는 자동 메일링 시스템이 포함됩니다. 이를 통해 의사결정 과정을 신속하게 지원하고 조직의 의사소통을 강화할 수 있습니다.
   </div>
 </details>
-   
+
 <details>
-  <summary><b>인센티브 시뮬레이션<b></summary>
+  <summary>**인센티브 시뮬레이션**</summary>
   <div markdown="1">
  //여기에 설명을 쓰세요
   </div>
 </details>
-   
+
 <details>
-  <summary><b>데이터 내보내기<b></summary>
+  <summary>**데이터 내보내기**</summary>
   <div markdown="1">
  //여기에 설명을 쓰세요
   </div>
 </details>
+
    
 - 상세기능은 각 레포에서 확인 할 수 있습니다
    
