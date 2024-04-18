@@ -83,7 +83,7 @@ CI/CD<br>
 본 프로그램은 Microsoft Windows x64 WSL환경에서 개발되었음으로.
 기타 환경에서 정상 작동 하지 않을 수 있습니다.
 
-This system was developed for Microsoft Windows x64 under the Windows Subsystem for Linux (WSL). It may not function correctly on other operating systems.
+This system was developed for Microsoft Windows x64 under the Windows Subsystem for Linux (WSL).<br> It may not function correctly on other operating systems.
 
 ---
 ### 🌳System Architecture
