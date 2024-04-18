@@ -28,7 +28,11 @@
 ### 🥇Deployment URL
 <img src="https://github.com/beyond-sw-camp/be01-101/assets/148880521/6871451e-fb54-49d6-9b24-340756e3d17f" width="210" height="72">
 
- https://bpssystem.store/
+ https://bpssystem.store/   <br>
+|| 영업사원 | 영업 팀장 | 관리자 |
+|--|--|--|--|
+|ID|2016101542|2002032659|1111111111|
+|PW|1|1|1|
 
 ---
 ### ✔ Topic
