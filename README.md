@@ -145,6 +145,14 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
 </details>
 
 <details>
+  <summary><b>판매 관리</b></summary>
+  <div markdown="1">
+  - 제품별 매출 현황<br>
+  - 거래처별 매출 현황<br>
+  </div>
+</details>
+
+<details>
   <summary><b>My영업</b></summary>
   <div markdown="1">
   - 내 정보 조회<br>
