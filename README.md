@@ -190,7 +190,7 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
 </details>
 
    
-- <b> 상세기능은 각 레포에서 확인 할 수 있습니다 </b>
+- <b> 상세기능은 각 레포지토리에서 확인 할 수 있습니다 </b>
    
 ---
 
