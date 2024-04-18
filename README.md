@@ -94,51 +94,110 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
 ---
 ### 🌳System Architecture
 
-![그림2](https://github.com/beyond-sw-camp/be01-101/assets/148880521/e87e15fb-fc79-46f9-a2d1-571a7b60df2d)
+![그림1](https://github.com/Team5-be01-Final-Project/.github/assets/148880521/6743922c-790e-4b54-b959-c5ae3b12a33b)
+
 
 
 ---
+### 📜기능 
 
+<details>
+  <summary><b>대시보드</b></summary>
+  <div markdown="1">
+  - 이달의 거래처 <br>
+  - 이달의 최우수 사원 <br>
+  - 창고/차량 온도 <br>
+  - 이달의 거래처별 매출 현황
+  - 이달의 총 매출 현황
+  
+  </div>
+</details>
+
+<details>
+  <summary><b>시스템 관리</b></summary>
+  <div markdown="1">
+  - 창고 이상 온도 조회 <br>
+  - 사원 리스트 조회 <br>
+  - 사원 권한 수정 <br>
+  
+  </div>
+</details>
+
+<details>
+  <summary><b>제품 관리</b></summary>
+  <div markdown="1">
+  - 판매 상품 조회
+  - 거래처별 판매가 등록 및 수정<br>
+  - 거래처별 제품 조회<br>
+  - 재고 조회 및 등록<br>
+  - 전표 등록<br>
+  - 전표 결재<br>
+  - 전표 조회<br>
+  </div>
+</details>
+
+<details>
+  <summary><b>영업 관리</b></summary>
+  <div markdown="1">
+  - 거래처 수정 및 조회<br>
+  - 거래처 등록<br>
+  - 인센티브 현황 확인<br>
+  </div>
+</details>
+
+<details>
+  <summary><b>My영업</b></summary>
+  <div markdown="1">
+  - 내 정보 조회<br>
+  - 담당 거래처 목록<br>
+  - 내 매출 현황<br>
+  - 인센티브 시뮬레이션<br>
+  </div>
+</details>
+
+---
 
 ### 📌 주요 기능
 
 <details>
-  <summary>Cold-Chain</summary>
+  <summary><b>Cold-Chain</b></summary>
   <div markdown="1">
-콜드체인 기법은 의약품이나 생물학적 제제 등 온도에 민감한 물품을 안전하게 보관하고 운송하기 위해 일정한 온도 범위를 유지하는 물류 관리 시스템입니다. 본 시스템은 창고와 이동 중인 배송 차량에서 설정된 온도 범위(2-8도)를 초과하거나 미달할 경우, 즉시 담당자에게 이메일을 통해 알림을 보내어 신속한 조치를 취할 수 있도록 합니다.
+콜드체인 기법은 의약품이나 생물학적 제제 등 온도에 민감한 물품을 안전하게 보관하고 운송하기 위해 일정한 온도 범위를 유지하는 물류 관리 시스템입니다.<br> 
+본 시스템은 창고와 이동 중인 배송 차량에서 설정된 온도 범위(2-8도)를 초과하거나 미달할 경우, 즉시 담당자에게 이메일을 통해 알림을 보내어 신속한 조치를 취할 수 있도록 합니다.
   </div>
 </details>
 
 <details>
-  <summary>**이메일 알람**</summary>
+  <summary><b>이메일 알람</b></summary>
   <div markdown="1">
-이메일 서비스 기능은 기업의 내부 커뮤니케이션을 자동화하여 효율성을 높이는 데 중요한 역할을 합니다. 이 시스템은 특정 이벤트나 조건이 발생했을 때 관련 정보를 자동으로 이메일로 발송하며, 추후 개발 예정인 기능에는 매출 보고나 중요 공지사항을 회사의 대표나 팀장에게 정기적으로 전송하는 자동 메일링 시스템이 포함됩니다. 이를 통해 의사결정 과정을 신속하게 지원하고 조직의 의사소통을 강화할 수 있습니다.
+이 시스템은 특정 이벤트나 조건이 발생했을 때 관련 정보를 자동으로 이메일로 발송하며, 추후 개발 예정인 기능에는 매출 보고나 중요 공지사항을 회사의 대표나 팀장에게 정기적으로 전송하는 자동 메일링 시스템이 포함됩니다.
   </div>
 </details>
 
 <details>
-  <summary>**인센티브 시뮬레이션**</summary>
+  <summary><b>인센티브 시뮬레이션</b></summary>
   <div markdown="1">
- //여기에 설명을 쓰세요
+인센티브 시뮬레이션 기능을 통해 사용자는 본인의 현재 매출액과 인센티브, 그리고 영업 순위를 실시간으로 확인할 수 있습니다.<br> 사용자가 추가 매출액을 입력하면, 시스템은 이를 기반으로 예상 인센티브 금액과 영업 순위를 자동으로 계산하여 보여줍니다.<br>
+ 이 기능은 영업 팀원들이 목표 달성을 위한 진행 상황을 파악하고, 동기를 부여받을 수 있도록 설계되었습니다.
   </div>
 </details>
 
 <details>
-  <summary>**데이터 내보내기**</summary>
+  <summary><b>데이터 내보내기</b></summary>
   <div markdown="1">
- //여기에 설명을 쓰세요
+엑셀 내보내기 기능을 통해 사용자는 거래처별 및 상품별 매출 데이터를 쉽고 빠르게 엑셀 파일로 추출할 수 있습니다. 추출된 엑셀 파일은 데이터의 정확한 분석, 보고, 및 프레젠테이션을 위한 자료로 활용될 수 있으며, 외부 스프레드시트 툴과의 호환성을 제공합니다.
   </div>
 </details>
 
    
-- 상세기능은 각 레포에서 확인 할 수 있습니다
+- <b> 상세기능은 각 레포에서 확인 할 수 있습니다 </b>
    
 ---
 
 ### 🖥 프로젝트 설계
 
 <details>
-  <summary><b>ERD <b></summary>
+  <summary><b>ERD</b></summary>
   <div markdown="1">
  
 ![image](https://github.com/Team5-be01-Final-Project/.github/assets/149128094/7ccb4b1d-da73-4729-bea6-c0af69b90236)
@@ -147,7 +206,7 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
 </details>
 
 <details>
-  <summary><b>화면 설계서 <b></summary>
+  <summary><b>화면 설계서</b></summary>
   <div markdown="1">
  
 ![image](https://github.com/Team5-be01-Final-Project/.github/assets/149128094/09a744e9-ed8e-4662-b7ca-bd1844c2b944)
@@ -160,9 +219,8 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
 --- 
 ### 🚩 Git Flow
 
-
 <details>
-  <summary><b>Git 전략 설명<b></summary>
+  <summary><b>Git 전략 설명</b></summary>
   <div markdown="1">
 
 <img src="https://github.com/Team5-be01-Final-Project/Main/assets/150888333/8147a8de-9d3a-434f-bc95-6080ca72240f" width="600">
@@ -192,7 +250,7 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
 </details>
 
 <details>
-  <summary><b>Branch 설명<b></summary>
+  <summary><b>Branch 설명</b></summary>
   <div markdown="1">
 
 WBS NUMBER / 0.0.0 / 담당자이니셜
@@ -220,7 +278,7 @@ WBS넘버 /  배포버전.    기능추가.   버그픽스    /  담당자
 
 
 <details>
-  <summary><b>커밋 메세지 규칙<b></summary>
+  <summary><b>커밋 메세지 규칙</b></summary>
   <div markdown="1">
 
  태그(tag) + 제목(subject) " 으로 구성
