@@ -107,8 +107,8 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
   - 이달의 거래처 <br>
   - 이달의 최우수 사원 <br>
   - 창고/차량 온도 <br>
-  - 이달의 거래처별 매출 현황
-  - 이달의 총 매출 현황
+  - 이달의 거래처별 매출 현황<br>
+  - 이달의 총 매출 현황<br>
   
   </div>
 </details>
