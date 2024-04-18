@@ -109,6 +109,9 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
 <details>
   <summary><b>대시보드</b></summary>
   <div markdown="1">
+
+   <br/>
+   
   - 이달의 거래처 <br>
   - 이달의 최우수 사원 <br>
   - 창고/차량 온도 <br>
@@ -123,6 +126,9 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
 <details>
   <summary><b>시스템 관리</b></summary>
   <div markdown="1">
+
+   <br/>
+   
   - 창고 이상 온도 조회 <br>
   - 사원 리스트 조회 <br>
   - 사원 권한 수정 <br>
@@ -134,6 +140,9 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
 <details>
   <summary><b>제품 관리</b></summary>
   <div markdown="1">
+
+   <br/>
+   
   - 판매 제품 조회<br>
   - 거래처별 판매가 등록 및 수정<br>
   - 거래처별 제품 조회<br>
@@ -148,6 +157,9 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
 <details>
   <summary><b>영업 관리</b></summary>
   <div markdown="1">
+
+   <br/>
+   
   - 거래처 수정 및 조회<br>
   - 거래처 등록<br>
   - 인센티브 현황 확인<br>
@@ -158,6 +170,9 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
 <details>
   <summary><b>판매 관리</b></summary>
   <div markdown="1">
+
+   <br/>
+   
   - 제품별 매출 현황<br>
   - 거래처별 매출 현황<br>
   </div>
@@ -167,6 +182,9 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
 <details>
   <summary><b>My영업</b></summary>
   <div markdown="1">
+
+   <br/>
+   
   - 내 정보 조회<br>
   - 담당 거래처 목록<br>
   - 내 매출 현황<br>
@@ -185,8 +203,13 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
 <details>
   <summary><b>Cold-Chain</b></summary>
   <div markdown="1">
-콜드체인 기법은 의약품이나 생물학적 제제 등 온도에 민감한 물품을 안전하게 보관하고 운송하기 위해 일정한 온도 범위를 유지하는 물류 관리 시스템입니다.<br> 
-본 시스템은 창고와 이동 중인 배송 차량에서 설정된 온도 범위(2-8도)를 초과하거나 미달할 경우, 즉시 담당자에게 이메일을 통해 알림을 보내어 신속한 조치를 취할 수 있도록 합니다.
+  
+   <br/>
+   
+- 콜드체인 기법은 의약품이나 생물학적 제제 등 온도에 민감한 물품을 안전하게 보관하고 운송하기 위해
+ <br/>일정한 온도 범위를 유지하는 물류 관리 시스템입니다.
+- 본 시스템은 창고와 이동 중인 배송 차량에서 설정된 온도 범위( 2 ~ 8°C )를 초과하거나 미달할 경우,
+ <br/>즉시 담당자에게 이메일을 통해 알림을 보내어 신속한 조치를 취할 수 있도록 합니다.
   </div>
 </details>
 <br/>
@@ -194,7 +217,11 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
 <details>
   <summary><b>이메일 알람</b></summary>
   <div markdown="1">
-이 시스템은 특정 이벤트나 조건이 발생했을 때 관련 정보를 자동으로 이메일로 발송하며, 추후 개발 예정인 기능에는 매출 보고나 중요 공지사항을 회사의 대표나 팀장에게 정기적으로 전송하는 자동 메일링 시스템이 포함됩니다.
+
+   <br/>
+   
+- 이 시스템은 특정 이벤트나 조건이 발생했을 때 관련 정보를 자동으로 이메일로 발송하며,
+<br/> 추후 개발 예정인 기능에는 매출 보고나 중요 공지사항을 회사의 대표나 팀장에게 정기적으로 전송하는 자동 메일링 시스템이 포함됩니다.
   </div>
 </details>
 <br/>
@@ -202,8 +229,12 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
 <details>
   <summary><b>인센티브 시뮬레이션</b></summary>
   <div markdown="1">
-인센티브 시뮬레이션 기능을 통해 사용자는 본인의 현재 매출액과 인센티브, 그리고 영업 순위를 실시간으로 확인할 수 있습니다.<br> 사용자가 추가 매출액을 입력하면, 시스템은 이를 기반으로 예상 인센티브 금액과 영업 순위를 자동으로 계산하여 보여줍니다.<br>
- 이 기능은 영업 팀원들이 목표 달성을 위한 진행 상황을 파악하고, 동기를 부여받을 수 있도록 설계되었습니다.
+
+   <br/>
+   
+- 인센티브 시뮬레이션 기능을 통해 사용자는 본인의 현재 매출액과 인센티브, 그리고 영업 순위를 실시간으로 확인할 수 있습니다.
+- 사용자가 추가 매출액을 입력하면, 시스템은 이를 기반으로 예상 인센티브 금액과 영업 순위를 자동으로 계산하여 보여줍니다.
+- 이 기능은 영업 팀원들이 목표 달성을 위한 진행 상황을 파악하고, 동기를 부여받을 수 있도록 설계되었습니다.
   </div>
 </details>
 <br/>
@@ -211,7 +242,12 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
 <details>
   <summary><b>데이터 내보내기</b></summary>
   <div markdown="1">
-엑셀 내보내기 기능을 통해 사용자는 거래처별 및 상품별 매출 데이터를 쉽고 빠르게 엑셀 파일로 추출할 수 있습니다. 추출된 엑셀 파일은 데이터의 정확한 분석, 보고, 및 프레젠테이션을 위한 자료로 활용될 수 있으며, 외부 스프레드시트 툴과의 호환성을 제공합니다.
+
+   <br/>
+   
+- 엑셀 내보내기 기능을 통해 사용자는 거래처별 및 상품별 매출 데이터를 쉽고 빠르게 엑셀 파일로 추출할 수 있습니다.
+- 추출된 엑셀 파일은 데이터의 정확한 분석, 보고, 및 프레젠테이션을 위한 자료로 활용될 수 있으며,
+<br/> 외부 스프레드시트 툴과의 호환성을 제공합니다.
   </div>
 </details>
 
@@ -226,7 +262,7 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
   <summary><b>ERD</b></summary>
   <div markdown="1">
  
-![image](![ERD 최종본](https://github.com/Team5-be01-Final-Project/.github/assets/148880521/80205a98-6eba-4794-9b78-ee66b78ee9a0)
+![ERD 최종본](https://github.com/Team5-be01-Final-Project/.github/assets/148880521/80205a98-6eba-4794-9b78-ee66b78ee9a0)
 
   </div>
 </details>
@@ -270,12 +306,6 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
 - feature에서 개발 완료 후, dev 브랜치로 merge
 <br/>
 
-0.x.x : 정식 배포 버전
-
-0.0.x : 기능 추가 버전
-
-0.0.0 : 에러 및 간단한 수정 사항
-
   </div>
 </details>
 <br/>
@@ -284,21 +314,23 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
   <summary><b>Branch 설명</b></summary>
   <div markdown="1">
 
-WBS NUMBER / 0.0.0 / 담당자이니셜
+<br/>
 
 <img src="https://github.com/Team5-be01-Final-Project/Main/assets/150888333/870fe34b-4c32-4bc2-9d9a-69a07fd787c1" width="400">
-- 예시
 
-![image](https://github.com/Team5-be01-Final-Project/.github/assets/149128094/b7c6dc48-6f86-41a5-b1de-a8fca555f7fa)
+WBS NUMBER / 0.0.0 / 담당자이니셜
 
 ```
 
 4.2.1   /   1.          1.          0          /  SH
 WBS넘버 /  배포버전.    기능추가.   버그픽스    /  담당자
+
 4.2.1   /   1.        ' 2. '        0          /  SH
-                        ㄴ 기능적인 추가 혹은 수정 사항 
+                        ㄴ 기능적인 추가 혹은 수정 사항
+
 4.2.1   /   1.          2.        ' 1 '        /  SH
-                                    ㄴ 오타나, 문서 등 자잘 한 수정사항 
+                                    ㄴ 오타나, 문서 등 간단한 수정사항
+
 4.2.1   / ' 2.'         1.          0          /  SH
             ㄴ 릴리즈 버전 업데이트 시 2번째, 3번째 넘버링 초기화
 
@@ -312,11 +344,13 @@ WBS넘버 /  배포버전.    기능추가.   버그픽스    /  담당자
   <summary><b>커밋 메세지 규칙</b></summary>
   <div markdown="1">
 
- 태그(tag) + 제목(subject) " 으로 구성
- 태그는 영어로, 첫 문자는 대문자로 작성
+<br/>
+
+ > 태그(tag) + 제목(subject) " 으로 구성<br/>
+ 태그는 영어로 첫 문자는 대문자로 작성<br/>
 "[태그] 제목" 의 형태로 제목에 한글로 작업한 wbs의 타이틀이나 작업한 내용을 작성
 
-### 태그 리스트
+#### 태그 리스트
 - Feat : 새로운 기능을 추가한 경우
 - Fix : 버그나 에러를 고친 경우
 - Docs : 기타 문서를 수정한 경우, 코드X (ex : README.MD, changelog.md, package.json)
