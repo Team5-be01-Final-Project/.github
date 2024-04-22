@@ -34,10 +34,10 @@
 <img src="https://github.com/beyond-sw-camp/be01-101/assets/148880521/6871451e-fb54-49d6-9b24-340756e3d17f" width="210" height="72">
 
  https://bpssystem.store/   <br>
-|| 영업사원 | 영업 팀장 | 관리자 |
-|--|--|--|--|
-|ID|2016101542|2002032659|1111111111|
-|PW|1|1|1|
+|| 영업사원 | 영업 팀장 | 관리자 | 대표|
+|--|--|--|--|--|
+|ID|2016101542|2002032659|1111111111|1998059743|
+|PW|1|1|1|zxcvbnm12!|
 
 ---
 ### ✔ Topic
@@ -55,15 +55,21 @@
 - 영업사원은 자신의 매출과 인센티브 현황을 실시간으로 확인하여 영업사원의 목표의식을 강화한다.
 ---
 ### 🔧 Stacks
-DB <br>
+<b>DB</b>
+<br/>
+
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) <br>
 
-BE<br>
+<b>BE</b>
+<br/>
+
 ![springboot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) 
 ![apachemaven](https://img.shields.io/badge/apachemaven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white) <br>
 
 <br>
-FE<br>
+
+<b>FE</b>
+<br/>
 
 ![html5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
  ![css3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
@@ -73,7 +79,9 @@ FE<br>
 
 
 <br>
-CI/CD<br>
+
+<b>CI/CD</b>
+<br/>
 
 ![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![githubactions](https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) 
@@ -251,6 +259,7 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
 ---
 
 ### 🖥 System Design
+<br/>
 
 <details>
   <summary><b>ERD</b></summary>
@@ -275,6 +284,7 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
 
 --- 
 ### 🚩 Git Flow
+<br/>
 
 <details>
   <summary><b>Git 전략 설명</b></summary>
@@ -387,7 +397,7 @@ $ git commit -m "[Add] 이상온도알림 권한 코드 추가"
 
 - [기획안](https://github.com/Team5-be01-Final-Project/.github/blob/main/Datas/%5BBPS%5D%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B8%B0%ED%9A%8D%EC%84%9C_v3.pdf)
 
-- [요구사항 정의서]
+- [요구사항 명세서]
  
 - [API 명세서](https://github.com/Team5-be01-Final-Project/.github/blob/main/Datas/API%20%EB%AA%85%EC%84%B8%EC%84%9C.pdf)
 
