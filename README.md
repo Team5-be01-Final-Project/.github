@@ -397,7 +397,7 @@ $ git commit -m "[Add] 이상온도알림 권한 코드 추가"
 
 - [기획안](https://github.com/Team5-be01-Final-Project/.github/blob/main/Datas/%5BBPS%5D%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B8%B0%ED%9A%8D%EC%84%9C_v3.pdf)
 
-- [요구사항 명세서]
+- [요구사항 명세서](https://github.com/Team5-be01-Final-Project/.github/blob/main/Datas/%5BBPS%5D%20%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%20%EB%AA%85%EC%84%B8%EC%84%9C_v5.pdf)
  
 - [API 명세서](https://github.com/Team5-be01-Final-Project/.github/blob/main/Datas/API%20%EB%AA%85%EC%84%B8%EC%84%9C.pdf)
 
