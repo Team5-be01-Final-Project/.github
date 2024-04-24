@@ -398,6 +398,8 @@ $ git commit -m "[Add] 이상온도알림 권한 코드 추가"
 - [요구사항 명세서](https://github.com/Team5-be01-Final-Project/.github/blob/main/Datas/%5BBPS%5D%20%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%20%EB%AA%85%EC%84%B8%EC%84%9C_v5.pdf)
 
 - [피그마 링크](https://www.figma.com/file/xGG8vDgU9PU7JZBZ2VUmGW/team-5_v2?type=design&node-id=1669-162202&mode=design&t=Mh2coQjIxmqZnvuW-0)
+
+- [화면 설계서](https://github.com/Team5-be01-Final-Project/.github/blob/main/Datas/%ED%99%94%EB%A9%B4%EC%84%A4%EA%B3%84%EC%84%9C%20team%205_v2.pdf)
  
 - [API 명세서](https://github.com/Team5-be01-Final-Project/.github/blob/main/Datas/API%20%EB%AA%85%EC%84%B8%EC%84%9C.pdf)
 
