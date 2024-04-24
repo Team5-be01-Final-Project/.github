@@ -374,12 +374,13 @@ $ git commit -m "[Add] 이상온도알림 권한 코드 추가"
 
 ### 💾 Repositories
 
+- ### [Main Issues](https://github.com/Team5-be01-Final-Project/.github/issues)
+- 
 - ### [BackEnd](https://github.com/Team5-be01-Final-Project/Backend)
-
 
 - ### [FrontEnd](https://github.com/Team5-be01-Final-Project/Frontend2)
 
-- ### [Main Issues](https://github.com/Team5-be01-Final-Project/.github/issues)
+
 
 
 ---
