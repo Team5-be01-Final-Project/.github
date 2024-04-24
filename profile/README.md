@@ -277,8 +277,6 @@ This system was developed for Microsoft Windows x64 under the Windows Subsystem 
  
 ![image](https://github.com/Team5-be01-Final-Project/.github/assets/149128094/09a744e9-ed8e-4662-b7ca-bd1844c2b944)
 
-- 피그마 링크 (추가해야합니다!!)
-- 화면설계서 ppt 링크 (추가해야합니다!!)
   </div>
 </details>
 
@@ -376,12 +374,13 @@ $ git commit -m "[Add] 이상온도알림 권한 코드 추가"
 
 ### 💾 Repositories
 
+- ### [Main Issues](https://github.com/Team5-be01-Final-Project/.github/issues)
+  
 - ### [BackEnd](https://github.com/Team5-be01-Final-Project/Backend)
-
 
 - ### [FrontEnd](https://github.com/Team5-be01-Final-Project/Frontend2)
 
-- ### [Main Issues](https://github.com/Team5-be01-Final-Project/.github/issues)
+
 
 
 ---
@@ -397,9 +396,15 @@ $ git commit -m "[Add] 이상온도알림 권한 코드 추가"
 
 - [기획안](https://github.com/Team5-be01-Final-Project/.github/blob/main/Datas/%5BBPS%5D%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B8%B0%ED%9A%8D%EC%84%9C_v3.pdf)
 
-- [요구사항 명세서]
+- [요구사항 명세서](https://github.com/Team5-be01-Final-Project/.github/blob/main/Datas/%5BBPS%5D%20%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%20%EB%AA%85%EC%84%B8%EC%84%9C_v5.pdf)
+
+- [피그마 링크](https://www.figma.com/file/xGG8vDgU9PU7JZBZ2VUmGW/team-5_v2?type=design&node-id=1669-162202&mode=design&t=Mh2coQjIxmqZnvuW-0)
+
+- [화면 설계서](https://github.com/Team5-be01-Final-Project/.github/blob/main/Datas/%ED%99%94%EB%A9%B4%EC%84%A4%EA%B3%84%EC%84%9C%20team%205_v2.pdf)
  
 - [API 명세서](https://github.com/Team5-be01-Final-Project/.github/blob/main/Datas/API%20%EB%AA%85%EC%84%B8%EC%84%9C.pdf)
+
+- [최종 발표자료](https://github.com/Team5-be01-Final-Project/.github/blob/main/Datas/BPS%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 
 ---
 ### 🖌️ Acknowledgments
